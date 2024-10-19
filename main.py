@@ -10,6 +10,6 @@ with col2:
     st.title("Kenneth Lybech")
     content = """
     Hello. I am Kenneth! I am a Python programmer. I am selfeducated through courses on udemy and selfstudy.
-    I am new to Python coding.
+    I am new to Python coding. Feel free to contact me!
     """
     st.write(content)
